@@ -1,0 +1,2 @@
+# cv_baseline
+精选10篇入门CV必读经典的baseline论文
